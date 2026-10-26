@@ -12,7 +12,7 @@ export const FarmStory: React.FC = () => {
           <div className="lg:col-span-5 relative order-2 lg:order-1">
             <div className="relative rounded-3xl overflow-hidden border-2 border-[#D8C7B5] shadow-md aspect-[4/3] bg-[#FAF8F5]">
               <img
-                src="/src/assets/images/farm_nyamata_cultivation_1793019546910.jpg"
+                src="/assets/images/farm_nyamata_cultivation_1793019546910.jpg"
                 alt="Agricultural specialist tending mushroom harvest with care in Nyamata, Rwanda"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover"

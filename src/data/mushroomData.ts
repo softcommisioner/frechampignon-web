@@ -62,7 +62,7 @@ export const PRODUCTS: ProductItem[] = [
       'Rwandan households wanting nutritious, high-protein family meals',
       'Health-conscious foodies looking for natural immunity-boosting umami',
     ],
-    image: '/src/assets/images/fresh_ibihumyo_basket_1793019544558.jpg',
+    image: '/assets/images/fresh_ibihumyo_basket_1793019544558.jpg',
     badge: 'Daily Dawn Harvest',
   },
   {
@@ -91,7 +91,7 @@ export const PRODUCTS: ProductItem[] = [
       'Smallholder farmers seeking high-value indoor crop diversification',
       'Home gardeners wanting fresh, pesticide-free harvest on their balcony/yard',
     ],
-    image: '/src/assets/images/substrate_imigina_blocks_1793019545272.jpg',
+    image: '/assets/images/substrate_imigina_blocks_1793019545272.jpg',
     badge: 'High Yield Guarantee',
   },
 ];

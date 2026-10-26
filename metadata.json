@@ -1,0 +1,6 @@
+{
+  "name": "FreChampignon (iGihumyo) - Fresh Rwandan Mushrooms & Substrate",
+  "description": "Naturally grown fresh mushrooms (Ibihumyo) and high-yield substrate tubes (Imigina) in Nyamata, Kigali, Rwanda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
